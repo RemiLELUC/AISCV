@@ -1,6 +1,8 @@
 # NeurIPS 2022: A Quadrature Rule combining Control Variates and Adaptive Importance Sampling
 
-This is the code for the paper: "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling", Rémi Leluc, François Portier, Johan Segers, Aigerim Zhuman.
+This is the code associated to the research paper: "A Quadrature Rule combining Control Variates and Adaptive Importance Sampling", Rémi LELUC, François PORTIER, Johan SEGERS and Aigerim ZHUMAN. See [PDF](https://papers.nips.cc/paper_files/paper/2022/file/4d4e8614a37f0aff841ba87ed1a898c1-Paper-Conference.pdf)
+
+This implementation is made by [Rémi Leluc](https://remileluc.github.io/)
 
 ## Folder code/
 
